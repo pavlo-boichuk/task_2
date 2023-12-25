@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Clean-folder
+Version: 0.0.1
+Summary: Sorts files by type and cleans empty folders
+Home-page: https://github.com/pavlo-boichuk/task_2
+Author: Pavlo Boichuk
+Author-email: pb@gmail.com
+License: MIT
